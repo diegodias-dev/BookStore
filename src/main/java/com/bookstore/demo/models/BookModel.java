@@ -33,4 +33,3 @@ public class BookModel implements Serializable {
         this.title = title;
     }
 }
-//https://youtu.be/Ca30sv9EbLo?t=1741
